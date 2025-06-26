@@ -1,6 +1,6 @@
 # proyecto-malla-universidad
 
-*Descripcion dep proyecto
+*Descripcion del proyecto
 
 - En este proyecto se busca implementar el desarrollo de una aplicación web full-stack orientada a la visualización interactiva de las mallas curriculares de las carreras impartidas por la Universidad Mayor. La solución busca facilitar el acceso y comprensión de la estructura académica por parte de los estudiantes.
 - La plataforma permite explorar de manera dinámica las asignaturas organizadas por semestre, conocer sus prerrequisitos, electivos, certificaciones. Al ofrecer una interfaz intuitiva y centralizar la información académica, se espera mejorar significativamente la experiencia de planificación académica, reducir errores en la toma de decisiones y fomentar una mayor autonomía de los estudiantes.
