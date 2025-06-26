@@ -1,4 +1,4 @@
-# proyecto-malla-universidad
+# Proyecto-malla-universidad
 
 *Descripcion del proyecto
 
@@ -28,10 +28,10 @@ Requisitos previos:
   
 Opción A: Clonar desde GitHub: 
 
-a) Primero deberá tener instalado Git
-b) Acceda a Visual Studio Code
-c) Busque dónde está la ventana de Terminal, elija nuevo terminal
-   Escriba lo siguiente en el terminal:
+a) Primero deberá tener instalado Git.
+b) Acceda a Visual Studio Code.
+c) Busque dónde está la ventana de Terminal, elija nuevo terminal.
+d) Escriba lo siguiente en el terminal:
 git clone https://github.com/Matador2222/Malla-curricular.git
 git clone https://github.com/Matador2222/back-end-malla-universidad.git
 
@@ -48,7 +48,7 @@ a) En el Visual Studio Code, vaya a la ventana de Archivo y seleccione Abrir Arc
 b) Acceder al terminal y escriba lo siguiente: 
 npm install
 c) Vaya a la ventana de Archivo y seleccione Nuevo Archivo…
-d) Crea el archivo llamado .env, en la raíz del backend 
+d) Crea el archivo llamado .env, en la raíz del backend .
 e) En la carpeta .env recientemente creada, agregue la siguiente línea de código:
 DATABASE_URL=postgres://usuario:clave@host:puerto/nombre_bd
 - Este es un ejemplo demostrativo. La URL real de conexión será entregada por el equipo administrador del proyecto o estará disponible en la plataforma Railway.
@@ -60,18 +60,18 @@ b) Seleccione como administrador.
 c) Escriba el siguiente comando:
 Set-ExecutionPolicy
 d) Luego escriba “S” para confirmar.
-e) Cierre el Visual Studio Code y ejecutalo de nuevo
+e) Cierre el Visual Studio Code y ejecutalo de nuevo.
 f) Vuelva a utilizar el comando npm install en la terminal.
 
 4) Ejecucion del servidor
    
 a) Vaya a un terminal y escriba:
-node app.js
-b) El backend quedará activo en http://localhost:3000
+node app.js.
+b) El backend quedará activo en http://localhost:3000.
 c) y se conectará automáticamente a la base de datos en Railway.
 
 5) Visualización de la aplicación web
 
-a) Diríjase a la carpeta: Malla_Universida_Mayor
-b) Abra el archivo index.html
+a) Diríjase a la carpeta: Malla_Universida_Mayor.
+b) Abra el archivo index.html.
 La aplicación debería cargar automáticamente los datos desde el backend conectado a Railway.
